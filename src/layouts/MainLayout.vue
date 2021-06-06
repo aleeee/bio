@@ -9,7 +9,7 @@
         show-if-above
         :width="400"
         :breakpoint="600"
-        content-class="bg- grey-5   text-green-6"
+       
       >
         <q-scroll-area style="height: calc(100% - 150px); margin-top: 150px; border-right: 1px solid #ddd">
            <Link
@@ -20,13 +20,13 @@
           
         </q-scroll-area>
 
-        <q-img class="absolute-top" src="https://cdn.quasar.dev/img/material.png" style="height: 150px">
+        <q-img class="absolute-top" src="~assets/matrix.jpg" style="height: 150px">
           <div class="absolute-bottom bg-transparent">
             <q-avatar size="56px" class="q-mb-sm">
               <img src="../assets/programmer.png">
             </q-avatar>
-            <div class="text-weight-bold">Alemu T. Metaferia</div>
-            <div>alemutadesse8@gmail.com</div>
+            <div class="text-weight-bold bg-light-green-10">Alemu T. Metaferia</div>
+            <div class="bg-light-green-10">alemutadesse8@gmail.com</div>
           </div>
         </q-img>
       </q-drawer>
