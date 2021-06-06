@@ -1,14 +1,13 @@
 <template>
     <q-card 
       class="my-card text-white"
-      style="background: radial-gradient(circle, #35a2ff 0%, #014a88 100%)"
     >
       <q-card-section>
           
-        <p>Hi there, <q-icon name="waving_hand" /> I'm<b> Alemu</b></p>
+        <p>Hi there, <q-avatar><q-icon name="waving_hand" color="brown"/> </q-avatar>I'm<b> Alemu</b></p>
       </q-card-section>
 
-      <q-card-section class="q-pt-none">
+      <q-card-section class="q-pt-none text-h6 text-weight-light">
         {{ bio }}
       </q-card-section>
     </q-card>
