@@ -44,7 +44,7 @@
           return {
             	experiences: [
                   {name: 'Software Engineer', startDate: 'Dec 2017', endDate:'present' ,company: 'NTT DATA'
-                   ,description: ['Developed Integeration layer restful apis to mediate backend billing system with payment gateways and CRM systems.'
+                   ,description: ['Developed Integration layer restful APIs to mediate backend billing system with payment gateways and CRM systems.'
                                   ,'Implemented custom invoicing plugin to apply tax and refund items for Kill Bill billing system.'
                                   ,'Conducted unit, integration and performance testing.'
                                   ,'Developed several batch applications.'

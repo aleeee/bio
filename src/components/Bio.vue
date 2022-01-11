@@ -17,11 +17,12 @@
 export default {
   data(){
       return {
-          bio: 'I am an enthusiastic software engineer consulting large financial and telecom companies. '+
-          'My masters degree in computer science and networking from Sant\'Anna School of Advanced Studies and '+
-          'Pisa University helped me to see software designs from multiple perspectives. '
-           +'As a software engineer, I enjoy creating scalable and efficient applications providing our clients reliable'+
-           ' products. Seeking an opportunity to use my diverse skills and knowledge and to be a reliable DevOps engineer.'
+          bio: 'Software developer holding MS degree in Computer science and Networking'
++'with 6+ years of experience. Working on several projects for clients in different'
++'sectors including Telecom, Insurance and Motorway management. Experience'
++'in designing, coding, testing, integration, query writing, agile methodologies'
++'and web services. Seeking an opportunity to use my diverse skills and'
++ 'knowledge and to be a reliable DevOps engineer.'
        
       }
   }

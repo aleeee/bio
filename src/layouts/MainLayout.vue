@@ -34,6 +34,7 @@
         <q-page class="q-pa-md">
           <bio ref="bio" id="bio"/>  
           <skill ref="skill" id="skill"/>
+          <certificate/>
           <experience id="experience"/>
          <education id="education"/>
           <project id="project"/>
@@ -52,7 +53,7 @@ import Bio from 'src/components/Bio.vue'
 import Skill from 'src/components/Skills.vue'
 import Link from 'components/Link.vue'
 import Education from 'components/Education.vue'
-
+import Certificate from 'components/Certificate.vue'
 const linksData = [
   {
     title: 'Bio',
@@ -95,7 +96,7 @@ export default {
         links: linksData
         }
     },
-    components: { Link, Experience, Project,Bio,Skill ,Education}
+    components: { Link, Experience, Project,Bio,Skill ,Education,Certificate}
     
 }
 </script>

@@ -17,9 +17,11 @@
         data(){
             return{
                 skills: ['Java', 'Spring(boot,batch,JPA)','Apache Kafka','Apache Spark',
-                 'Jdbi' ,'OSGI', 'Resilience4j', 'ANTLR', 'Cplex', 'Mysql', 'H2',
-                 'Swagger', 'Docker', 'Jenkins', 'SonarQube', 'Fortify', 'Junit', 'Mockito','WireMock', 'Git','IBM RTC', 'Splunk', 
-                 'Shell scripting', 'jaxb','RESTful services', 'Agile',
+                 'Jdbi' ,'OSGI', 'Resilience4j', 'ANTLR', 'Cplex', 'Mysql', 'H2','Maven',
+                 'Swagger','OpenApi','Kubernetes', 'Docker', 'Jenkins', 'SonarQube', 
+                 'JOOQ', 'Apache Felix','SonarLint','Spring Cloud','TestContainers',
+                 'Fortify', 'Junit', 'Mockito','WireMock', 'Git','IBM RTC', 'Splunk', 
+                 'Shell scripting', 'jaxb','RESTful services', 'Agile','JWT','Jmeter',
                  'vue.js','quasar','javascript']
             }
         } 
